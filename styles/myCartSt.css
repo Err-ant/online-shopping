@@ -1,0 +1,125 @@
+/*   Index style START   */
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+}
+.header-sec {
+    padding: 0px 3%;
+    background-color: white;
+}
+.header-sec a {
+    text-decoration: none;
+    color: black;
+}
+.header-sec img {
+    margin: 10px 0px 0px 50%;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.search-box-position {
+    padding: 13px 0px;
+}
+.brand-logo{
+    padding: 10px 0px 0px 0px;
+}
+.no-same{
+    font-size: 25px;
+    font-weight: 700;
+}
+.no-shop{
+    color: rgb(250, 77, 9);
+}
+.logo-shop {
+    color: rgb(55, 60, 77);
+}
+input:focus{
+    outline: none;
+}
+form.search-box-style input[type=text] {
+    padding: 1px 1px 3px 5px;
+    font-size: 17px;
+    border: 2px solid rgb(55, 60, 77);
+    float: left;
+    width: 30%;
+    background: rgba(132, 229, 192, 0.418);
+}
+form.search-box-style button {
+    float: left;
+    width: 10%;
+    padding: 1px 1px 3px 1px;
+    background: rgb(55, 60, 77);
+    color: white;
+    font-size: 17px;
+    border: 2px solid rgb(55, 60, 77);
+    border-left: none; 
+}
+.navbar-bg {
+    background-color: rgb(55, 60, 77);
+}
+.navbar {
+    margin-top: -5px;
+    padding: 0px 1%;
+    margin-bottom: 10px;
+}
+.nav-link{
+    margin: 0px 20px;
+}
+.first-bar{
+    background-color: red;
+}
+.myCartMenu a{
+    text-decoration: none;
+    color: white;
+    padding-right: 15px;
+}
+.myCartMenu{
+    background-color: rgb(250, 77, 9);
+    padding: 8px 10px 8px 20px;
+    display: inline;
+}
+.register-menu {
+    background-color: rgb(250, 250, 250);
+    height: 85px;   
+    border: 1px solid rgba(59, 62, 71, 0.918);
+    
+}
+/*  INDEX part End  */
+.cart-title {
+    padding-left: 3px;
+}
+.cart-heading {
+    background-color: rgb(161, 147, 128)
+}
+#product1 img {
+    max-width: 80px;
+}
+.fontWtLg {
+    font-size: 20px;
+    font-weight: 500;
+}
+.fontWtSm {
+    font-size: 20px;
+    font-weight: 400;
+}
+.remove-img-size {
+    width: 18px;
+}
+.unit-case input {
+    width: 50px;
+}
+.inline-st {
+    display: inline;
+}
+
+/*------------Footer START-------------*/
+#about-us {
+    height: 350px;
+    background-color: rgba(55, 60, 77);
+}
+#about-us a {
+    text-decoration: none;
+}
+/*------------Footer END-------------*/
+

@@ -1,0 +1,144 @@
+/* -------------Header & Navbar START------------  */
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+}
+.header-sec {
+    padding: 0px 3%;
+    background-color: white;
+}
+.header-sec a {
+    text-decoration: none;
+    color: black;
+}
+.header-sec img {
+    margin: 10px 0px 0px 50%;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.search-box-position {
+    padding: 13px 0px;
+}
+.brand-logo{
+    padding: 10px 0px 0px 0px;
+}
+.no-same{
+    font-size: 25px;
+    font-weight: 700;
+}
+.no-shop{
+    color: rgb(250, 77, 9);
+}
+.logo-shop {
+    color: rgb(55, 60, 77);
+}
+input:focus{
+    outline: none;
+}
+form.search-box-style input[type=text] {
+    padding: 1px 1px 3px 5px;
+    font-size: 17px;
+    border: 2px solid rgb(55, 60, 77);
+    float: left;
+    width: 30%;
+    background: rgba(132, 229, 192, 0.418);
+}
+form.search-box-style button {
+    float: left;
+    width: 10%;
+    padding: 1px 1px 3px 1px;
+    background: rgb(55, 60, 77);
+    color: white;
+    font-size: 17px;
+    border: 2px solid rgb(55, 60, 77);
+    border-left: none; 
+}
+.navbar-bg {
+    background-color: rgb(55, 60, 77);
+}
+.navbar {
+    margin-top: -5px;
+    padding: 0px 1%;
+    margin-bottom: 10px;
+}
+.nav-link{
+    margin: 0px 20px;
+}
+.first-bar{
+    background-color: red;
+}
+.myCartMenu a{
+    text-decoration: none;
+    color: white;
+    padding-right: 15px;
+}
+.myCartMenu{
+    background-color: rgb(250, 77, 9);
+    padding: 8px 10px 8px 20px;
+    display: inline;
+}
+.register-menu {
+    background-color: rgb(70, 14, 14);
+    height: 100px;   
+    border: 1px solid rgba(59, 62, 71, 0.918);
+    
+}
+/*------------Header & Navbar END-------------*/
+
+/*------------Main section START-------------*/
+.bg-category {
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: -1px -1px 5px rgb(139, 139, 139);
+}
+.cat1Heading {
+    margin-bottom: 30px;
+    color: rgb(250, 77, 9);
+}
+#category a {
+    text-decoration: none;
+    color: rgb(27, 29, 37);
+}
+.cat1Heading a {
+    text-decoration: none;
+    color: rgb(250, 77, 9)!important;
+}
+#category img {
+    width: 150px;
+    height: 190px;
+}
+#newest .ratingColor {
+    color: rgb(189, 167, 167);
+}
+.product-card img {
+    width: 250px;
+    height: 200px;
+}
+.pCardPrice {
+    padding: 30px 10px 10px 15px;
+
+}
+.ratingColor {
+    color: rgb(250, 77, 9);
+}
+.product-bg:hover {
+    box-shadow: 5px 5px 10px rgb(55, 60, 77);
+    border-radius: 5px;
+}
+.btn-dark {
+    background-color: rgb(55, 60, 77);
+}
+/*------------Main Section END-------------*/
+
+/*------------Footer START-------------*/
+#about-us {
+    height: 350px;
+    background-color: rgba(55, 60, 77);
+}
+#about-us a {
+    text-decoration: none;
+}
+/*------------Footer END-------------*/
+

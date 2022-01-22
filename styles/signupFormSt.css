@@ -1,0 +1,27 @@
+.loginForm {
+    max-width: 600px;
+    border: 1px solid black;
+    margin: 80px auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px;
+}
+.login-main {
+    margin: 40px;
+    padding: 50px 50px 10px 50px;
+    background-color: #eee;
+    border-radius: 10px;
+}
+.login-header {
+    text-align: center;
+    margin-bottom: 70px;
+}
+.login-text {
+    margin: 20px 0px;
+}
+.login-signup-option {
+    text-align: center;
+    margin-top: 50px;
+}
+input {
+    margin: 20px 0px;
+}
